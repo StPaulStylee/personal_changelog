@@ -5,3 +5,6 @@ I was unable to begin my Game Development Systems programming because I cannot r
 
 ### 11/6/19
 I began my study on the observer pattern - only introductory study, no implementation details. Basically, you have publishers (Subject Object) and subscribers (observers). The observers subscribe to the subject object (or a bit of data that the subject object owns) and when that data changes, the observers are notified. If the observers no longer wish to receive updates, they can unsubscribe from the subject object.  It's similar to a newspaper subscription model.
+
+### 11/7/19
+I was unable to complete my commitment for today. I came home from a business trip late last night so I slept as late as possible this AM. The kids just went to bed and I am beat. I am logging here tonight as a reminder that I will be continuing to build this habit, even if I miss a day here or there. I'm up at 5 AM tomorrow, ready to start my game systems programming!
