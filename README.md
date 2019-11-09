@@ -8,3 +8,8 @@ I began my study on the observer pattern - only introductory study, no implement
 
 ### 11/7/19
 I was unable to complete my commitment for today. I came home from a business trip late last night so I slept as late as possible this AM. The kids just went to bed and I am beat. I am logging here tonight as a reminder that I will be continuing to build this habit, even if I miss a day here or there. I'm up at 5 AM tomorrow, ready to start my game systems programming!
+
+### 11/8/19
+I typically sleep with ear plugs since my wife tends to snore 😬. Usually I can set my alarm and still be woken by it regardless of the plugs... Not this AM though. So, I had to further delay my system learning.
+However, I did continue my reading on design patterns and the Observer pattern in particular. In a standard implementation, you great two interface types... A Subject interface that defines a register, unregister, and notify method. Second, you create an Observer interface that has an update definition. I'll get into further details tomorrow.
+Further, I watched a short tutorial on You tube about using the Observer pattern in Unity3d. The video contained two implementation patterns... One was basically what I just described... But the second was setup using built in C# events - Action. 
