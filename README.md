@@ -41,6 +41,9 @@ TOnight I implemented a very simply leveling system for the player. Super duper 
 ### 11/21/19
 I took a break tonight to revisit my design patterns book. I am still reading over the Observer pattern. I actually had to go back and refresh myself a bit... So I only really read a couple new pages. I was asked to complete an exercise in implementation of the pattern before the book showed us an implemented. From what I can tell, I did aight. 
 
-### 11/22/19
+### 11/24/19
 I finished the chapter on the Observer pattern tonight. We went into implementation details and they are super straight forward. Not really even worth rehashing asnive already described it above. Good though, and I am anxious to get an opportunity to implement the pattern at work. 
+
+### 11/25/2019
+This morning I was able to complete the UI System for the mini-rpg. This was my first exposure to the TextMeshPro package within Unity - it was very simply however. I'd say that today I didn't learn a whole lot that I didn't already know, but I am beginning to feel very comfortable inside of the Unity editor - understanding when a new layer is necessary, how to navigate different preferences, etc. Up next is a event driven inventory system. I am excited to see how we implement it and I hope to get some new perspectives out of it.
 
