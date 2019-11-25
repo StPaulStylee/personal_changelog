@@ -40,3 +40,7 @@ TOnight I implemented a very simply leveling system for the player. Super duper 
 
 ### 11/21/19
 I took a break tonight to revisit my design patterns book. I am still reading over the Observer pattern. I actually had to go back and refresh myself a bit... So I only really read a couple new pages. I was asked to complete an exercise in implementation of the pattern before the book showed us an implemented. From what I can tell, I did aight. 
+
+### 11/22/19
+I finished the chapter on the Observer pattern tonight. We went into implementation details and they are super straight forward. Not really even worth rehashing asnive already described it above. Good though, and I am anxious to get an opportunity to implement the pattern at work. 
+
