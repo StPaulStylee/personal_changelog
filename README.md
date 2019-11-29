@@ -53,3 +53,6 @@ Also today, I was listening to a podcast about Game Design - I want to get into 
 
 ### 11/27/19
 This AM I continued implementing the interaction system. Now the player can loot crates and also enter buildings - the way this is done is I created another tile map off camera and I simply transport the player and the camera over there... It's pretty neat. So, how did I grow today? Well, I suppose I got a better grasp on how to set up the camera to follow the player. There is room for improvement here... The camera currently follows the player but has no knowledge of the edge of the tile map. This can cause the camera to render outside the edges of the tile map, which looks pretty bad. I imagine we would need some sort of logic and/or in editor components to stop the camera movement along a particular axis if the player character is appoaching the edge of the tile map.
+
+### 11/28/2019
+Thanksgiving, what a great holiday, but a tough one for productivity. I wasn't able to do any coding today as I spent all of my free time researching my next CPU build, which I will be buying tomorrow!!! So I suppose I did grow a bit... I refreshed myself on CPU hardware and I also grew on excitement about a new computer!!!
