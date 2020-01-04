@@ -62,3 +62,6 @@ It's the start of the new year and I have a number of personal goals for it. One
 
 ### 01/03/2020
 This morning I did a little game development... I am continuing to work on a very basic RPG - basically a rehash of a tutorial I complete, but this time I am doing it on my own. I am nearly finished. I implemented some of the UI today - the players health bar, xp bar, and current level all update and render as expected. This type of work is becoming easier in that I no longer need notes/tutorial to help me implement. This is great because now I have enough proficiency to start focusing on more advanced UIs.
+
+### 01/04/2020
+This afternoon I nearly completed my rehash of the basic RPG game. I implemented the interaction system - Item pick, building entry, Xp pickup, etc. I also implemented a basic camera follow. Tomorrow I want to refactor all of the code so that it uses proper design patterns and class structure... Right now, it's pretty hideous. I am finding that I know how to complete some tasks without having to reference any materials. So I am growing in comfortability which is great because it means I am getting ready to start taking on more complex games. YEAH YEAH YEAH!
