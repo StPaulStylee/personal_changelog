@@ -65,3 +65,6 @@ This morning I did a little game development... I am continuing to work on a ver
 
 ### 01/04/2020
 This afternoon I nearly completed my rehash of the basic RPG game. I implemented the interaction system - Item pick, building entry, Xp pickup, etc. I also implemented a basic camera follow. Tomorrow I want to refactor all of the code so that it uses proper design patterns and class structure... Right now, it's pretty hideous. I am finding that I know how to complete some tasks without having to reference any materials. So I am growing in comfortability which is great because it means I am getting ready to start taking on more complex games. YEAH YEAH YEAH!
+
+### 01/06/2020
+This morning I completed my rehash of a very basic RPG. I completed implementing the inventory system and then refactored by character classes to inherit from a base abstract character class that contains a few different abstract and virtual methods. This has been a great experience. I am feeling ready to take on something new and challenging - this is the most comfortable I have felt with Unity and C# in general. That is not to say I still don't have A LOT TO LEARN, but I feel that I am in a place to start learning advanced topics and do so effectively.
