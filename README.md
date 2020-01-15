@@ -79,3 +79,6 @@ Another cool thing we have done in this project is make use of multiple layers i
 
 ### 01/14/2020
 Not a lot of new learning today. I created another scene for this RPG Town tutorial I am doing and continued to solidify some of the stuff from earlier lessons. I have just begun to create the character class that both the player and NPCs will inherit from, but nothing ground breaking yet. 
+
+###01/15/2020
+My son woke up super early this AM so I didn't get as much time as I had wanted. One new thing I learned about today is that in your class declarations in Unity, you can require that class to have certain components. Using an attribute on the class declaration itself, you can create a list of components that are required for the class. When you assign these classes to a game object within the Unity editor, they will automatically have those required components assigned to them. Further, you cannot remove the required components within the editor... Pretty neat.
