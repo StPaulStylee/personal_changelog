@@ -80,5 +80,8 @@ Another cool thing we have done in this project is make use of multiple layers i
 ### 01/14/2020
 Not a lot of new learning today. I created another scene for this RPG Town tutorial I am doing and continued to solidify some of the stuff from earlier lessons. I have just begun to create the character class that both the player and NPCs will inherit from, but nothing ground breaking yet. 
 
-###01/15/2020
+### 01/15/2020
 My son woke up super early this AM so I didn't get as much time as I had wanted. One new thing I learned about today is that in your class declarations in Unity, you can require that class to have certain components. Using an attribute on the class declaration itself, you can create a list of components that are required for the class. When you assign these classes to a game object within the Unity editor, they will automatically have those required components assigned to them. Further, you cannot remove the required components within the editor... Pretty neat.
+
+### 01/16/2020
+Today I finished implementing the NPC movement system. Very basic in that the NPC only moves 1 tile in any direction, and then back to there starting point. This is good exposure to how these movement systems can be implemented, even if it is very basic. I am continuing to learn the foundations of game development and that is very exciting. As I continue to say, I am setting myself up to learn more advanced techniques. I love this ish. Oh, and I also learned the difference between IEnumerable and IEnumerator in C#. The StartCoroutine method in Unity requires a method that returns an IEnumerator... I am guessing this has something to do with the fact that the StartCoroutine method needs to be able to track the state of Couroutine method that is passed as an argument to StartCoroutine... I am not certain of this, but it's cool to know the difference either way. 
