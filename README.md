@@ -85,3 +85,9 @@ My son woke up super early this AM so I didn't get as much time as I had wanted.
 
 ### 01/16/2020
 Today I finished implementing the NPC movement system. Very basic in that the NPC only moves 1 tile in any direction, and then back to there starting point. This is good exposure to how these movement systems can be implemented, even if it is very basic. I am continuing to learn the foundations of game development and that is very exciting. As I continue to say, I am setting myself up to learn more advanced techniques. I love this ish. Oh, and I also learned the difference between IEnumerable and IEnumerator in C#. The StartCoroutine method in Unity requires a method that returns an IEnumerator... I am guessing this has something to do with the fact that the StartCoroutine method needs to be able to track the state of Couroutine method that is passed as an argument to StartCoroutine... I am not certain of this, but it's cool to know the difference either way. 
+
+### 01/17/2020
+We created a Gateway class and a Gateway Manager. The manager is a Singleton. Each possible gateway (a door for example) has a gateway script on it. The script has a property for the scene to be loaded as well as the position that the player should be put into the new scene. The gateway then calls the singleton manager in which the manager performs the necessary logic to set the spawn location and move the player to the spawn point, then the gateway class loads the scene. It is important to remember that each scene must contain your player prefab in it in order for this implementation to work. 
+
+Cinemachine! Baller. This thing is going to take a whole tutorial on its own to really get a feel for it but man... This tool seems amazing. I'm very excited to jump into Cinemachine in the near future as camera work is essential for quality games.
+
