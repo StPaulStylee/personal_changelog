@@ -91,3 +91,6 @@ We created a Gateway class and a Gateway Manager. The manager is a Singleton. Ea
 
 Cinemachine! Baller. This thing is going to take a whole tutorial on its own to really get a feel for it but man... This tool seems amazing. I'm very excited to jump into Cinemachine in the near future as camera work is essential for quality games.
 
+### 01/22/2020
+I actually put time in yesterday too, but forgot to update this log. Whoops! So, scriptable objects... These are used to add data to a game object in a modular manner. To create one, you simply inherit yuor class from ScriptableObject. You can then add a attribute to your class called “CreateAssetMenu” which allows you to place this scriptable object in the asset menu and create it on demand. With this attribute you can assign in a filename (not sure how we use this yet but I am sure I will find out) and the name of the asset in the asset menu. In this course we used the ScriptableObject to create a dialogue object that we could assign to our NPCs.
+
