@@ -96,3 +96,6 @@ I actually put time in yesterday too, but forgot to update this log. Whoops! So,
 
 ### 3/2/2020
 I am doing a bit of "cheating" to start of the newest 30 day github growth challenge by watching youtube videos on how to use the Profiler in Unity. I have put it off for quite some time now and I haven't really had a need to worry about understanding it. BUT, it is required to have a strong understanding on optimization and the first step is understanding the fundamentals of the optimization in Unity, and that begins with the profiler. I now know the basic data points and how to drill down to their root causes. From there, you can begin to optimize the game so you can get that fresh frame rate!
+
+### 3/3/2020
+Tonight I began studying the Simple Factory Pattern. It's really super basic. You just pass the factory to the constructor of the class that needs it. The class then passes a type (or some other type of discernable data) and the factory uses it to new up a new implementation and returns it. I know this is basic AF and I am eager to see more advanced factory patterns.
