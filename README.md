@@ -105,3 +105,6 @@ I wasn't able to sit down at the CPU again... But I was able to continue reading
 
 ### 3/6/2020
 Tonight I was able to finally get some time in with Game Development. I was able to finish a "Turn Based" attack scene built in Unity. It is pretty basic - no animations, very simplistic battle systems - but it lays the framework for this type of system and it can be expanded. I plan on spending sometime refactoring the code and advancing it a bit. Whether that is what I do next of if I continue down this fundamental RPG path is not yet decided... I'll just see how I feel tomorrow!
+
+### 3/7/2020
+Today I finished the chapter on the Factory Method pattern by reinforcing it with code. So far while reading this Design book, I have simply been reading it by my bedside. I have decided that when possible, I would like to solidfy the lessons by actually coding it out and implementing it. I feel like it made a huge difference is solidifying the design in my mind. I think I will go back to the previous patterns I have read and do the same - The Strategy and Observer pattern.
