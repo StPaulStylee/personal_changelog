@@ -108,3 +108,6 @@ Tonight I was able to finally get some time in with Game Development. I was able
 
 ### 3/7/2020
 Today I finished the chapter on the Factory Method pattern by reinforcing it with code. So far while reading this Design book, I have simply been reading it by my bedside. I have decided that when possible, I would like to solidfy the lessons by actually coding it out and implementing it. I feel like it made a huge difference is solidifying the design in my mind. I think I will go back to the previous patterns I have read and do the same - The Strategy and Observer pattern.
+
+### 3/8/2020
+Tonight I continued reading about factory patterns. Specifically, I was introduced to the "Dependency Inversion Principle". The Method Factory pattern adheres to this principle. Basically, the Dependency Inversion Principle states that your higher level code should depend on abstractions and your the lower level code itnuses should also depend on abstractions - no concrete implementations in your high level or low level dependencies! For example, in our pizza example the Pizza Store relied on an abstract Pizza class in order to create and return a pizza. The Create and Order class also relied on that same abstract Pizza class when running it's creation code. Pretty neat. 
