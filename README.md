@@ -111,3 +111,6 @@ Today I finished the chapter on the Factory Method pattern by reinforcing it wit
 
 ### 3/8/2020
 Tonight I continued reading about factory patterns. Specifically, I was introduced to the "Dependency Inversion Principle". The Method Factory pattern adheres to this principle. Basically, the Dependency Inversion Principle states that your higher level code should depend on abstractions and your the lower level code itnuses should also depend on abstractions - no concrete implementations in your high level or low level dependencies! For example, in our pizza example the Pizza Store relied on an abstract Pizza class in order to create and return a pizza. The Create and Order class also relied on that same abstract Pizza class when running it's creation code. Pretty neat. 
+
+### 3/9/2020
+Tonight I read about the Abstract Factory pattern. Im super tired though...I have more of it to go over but I was able to walk through one implementation example. There is one more and then I will code it myself. Neat stuff.
