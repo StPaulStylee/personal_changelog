@@ -117,3 +117,6 @@ Tonight I read about the Abstract Factory pattern. Im super tired though...I hav
 
 ### 3/10/2020
 This morning I woke up early to get some Game Dev work in. I was able to start a new course on how to create a simple crafting system. This is another step in getting some RPG fundamentals down and I'm loving it. It's early in the course so I don't have too much to report on... But I've got my alarm set again so I can get back to it in the AM. I also just finished the chapter in Head First Design Patterns on The factory patterns. Specifically, I completed the section on the Abstract Factory Pattern. It's different than the Factory Method in that it's meant to create instances of objects that can be "grouped" together. Itbuses composition instead of inheritance. I'll probably wait until over the weekend to spend some time writing up an example. The next chapter in the book is all about Singletons, so that is exciting.
+
+### 3/11/2020
+Today I built out more of the crafting system. Much of the focus was on setting up the UI for the system. Let me say... This is more advanced Ui than I've done before. It's exciting to use code to create dynamic UI slots for the items used in crafting. The system is not functioning completely yet, but it's close. I'll be up again tomorrow AM to get back to work.
