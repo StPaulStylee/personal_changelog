@@ -120,3 +120,6 @@ This morning I woke up early to get some Game Dev work in. I was able to start a
 
 ### 3/11/2020
 Today I built out more of the crafting system. Much of the focus was on setting up the UI for the system. Let me say... This is more advanced Ui than I've done before. It's exciting to use code to create dynamic UI slots for the items used in crafting. The system is not functioning completely yet, but it's close. I'll be up again tomorrow AM to get back to work.
+
+### 3/12/2020
+This AM I spent my morning debugging a UI issue I was having from yesterday's work. Turn's out it was something super simple - I forgot to add a required component to a GameObject :/  So... I didn't get a lot done in terms of new content today but it was fun to break out from the tutorial and problem solve on my  own. I know I need to start building my own things and plan to once I get through the "RPG Academy" courses on Zenva. I'm starting to gain traction here and I think I can get through them by the end of the month. Then, through April, May, and June I am going to devote myself to portfolio building and weighing my options for the future. VERY EXCITING STUFF!!!!
